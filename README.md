@@ -78,6 +78,34 @@ Scan with no credentials detailed <br/>
 <br />
 
 
+<p align="center">
+ Scan with older firefox with an outdated version <br/>
+<img src="https://i.imgur.com/gVJcFSL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ Found vulnerabilities in older firefox <br/>
+<img src="https://i.imgur.com/yfDmg6W.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+ After uninstalling older firefox and updating windows <br/>
+<img src="https://i.imgur.com/MLbOUBu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+ Found vulnerabilitiesa after updating windows <br/>
+<img src="https://i.imgur.com/w8ylRSM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
 </p>
 
 
