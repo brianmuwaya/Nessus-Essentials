@@ -33,6 +33,12 @@ Enabling Remote registry <br/>
 <br />
 <br />
 
+<p align="center">
+Disabling user account control settings <br/>
+<img src="https://i.imgur.com/CrF9VGx.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 </p>
 
 
