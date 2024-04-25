@@ -39,6 +39,45 @@ Disabling user account control settings <br/>
 <br />
 <br />
 
+<p align="center">
+Scan with no credentials <br/>
+<img src="https://i.imgur.com/nod7L2o.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+Scan with no credentials detailed <br/>
+<img src="https://i.imgur.com/Y5izAWn.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ Scan with no credentials in details <br/>
+<img src="https://i.imgur.com/NCLrAHr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+ Scan with credentials <br/>
+<img src="https://i.imgur.com/FyiXtFe.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ Credential scan with vulnerabilities <br/>
+<img src="https://i.imgur.com/j3Xa5OM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+ Credential scan with vulnerabilities in detail <br/>
+<img src="https://i.imgur.com/nJr2fUt.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 </p>
 
 
