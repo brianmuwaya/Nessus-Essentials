@@ -21,8 +21,15 @@ In this lab we will cover vulnerability scanning and vulnerability remediation. 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users with Powershell: <br/>
-<img src="https://i.imgur.com/jD3GdS5.png) height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Disabling Firewall <br/>
+<img src="https://i.imgur.com/cCxjsGR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+Enabling Remote registry <br/>
+<img src="https://i.imgur.com/vvjcXYP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
