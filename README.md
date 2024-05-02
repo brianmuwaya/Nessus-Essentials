@@ -103,6 +103,19 @@ Scan with no credentials detailed <br/>
 <br />
 <br />
 
+<p align="center">
+ After remediating most of the vulnerabilities <br/>
+<img src="https://i.imgur.com/BZuyuzY.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<p align="center">
+ After remediating most of the vulnerabilities detailed <br/>
+<img src="https://i.imgur.com/nDNuqvk.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 
 
 </p>
