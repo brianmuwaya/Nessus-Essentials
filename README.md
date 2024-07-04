@@ -33,6 +33,15 @@ Scan with credentials <br/>
 <br />
 
 
+<p align="center">
+Found vulnerabilities in detail <br/>
+<img src="https://i.imgur.com/k6A2Szp.jpeg"/>
+<br />
+<br />
+
+
+
+
 
 </p>
 
