@@ -19,15 +19,8 @@ In this project, I successfully installed and configured Nessus Essentials to pe
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Remediating vulnerabilities</p>
-After remediating most of the vulnerabilities. <br/>
-<imgsrc="nj"/>
-<br />
-<br />
-
-<p align="center">
 Scan with no credentials <br/>
-<img src="https://i.imgur.com/nod7L2o.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6h4RQKI.jpeg"/>
 <br />
 <br />
 
