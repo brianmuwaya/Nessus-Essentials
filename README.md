@@ -62,6 +62,14 @@ After remediating most of found vulnerabilities <br/>
 <br />
 
 
+<p align="center">
+After remediating most of found vulnerabilities in detail <br/>
+<img src="https://i.imgur.com/Nc1OZJ1.jpeg"/>
+<br />
+<br />
+
+
+
 
 
 </p>
