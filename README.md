@@ -1,25 +1,25 @@
-<h1>File permissions in Linux Home Lab</h1>
+<h1>Nessus Home Lab</h1>
 
 
 <h2>Project description</h2>
-The research team at my organization needs to update the file permissions for certain files and directories within the projects directory. The permissions do not currently reflect the level of authorization that should be given. Checking and updating these permissions will help keep their system secure. To complete this task, I performed the following tasks:
+In this project, I successfully installed and configured Nessus Essentials to perform credentialed vulnerability scans on Windows 10 hosts. The primary goal was to enhance the security posture of sandbox networks by implementing a comprehensive Vulnerability Management function, which included the following phases: Discover, Prioritize, Assess, Report, Remediate, and Verify.
 <br/>
 
 
 <h2>Utilities Used</h2>
 
-- <b>Linux</b> 
+- <b>Nessus Essentials</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Google Cloud</b>
+- <b>Sandbox</b>
 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<h2>Check file and directory details</h2>h2>
+<p>Disabling Firewall<p>
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system. <br/>
 <img src="https://i.imgur.com/cCxjsGR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
