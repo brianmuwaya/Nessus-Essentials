@@ -26,6 +26,14 @@ Scan with no credentials <br/>
 
 
 
+<p align="center">
+Scan with credentials <br/>
+<img src="https://i.imgur.com/VP0NTaD.jpeg"/>
+<br />
+<br />
+
+
+
 </p>
 
 
