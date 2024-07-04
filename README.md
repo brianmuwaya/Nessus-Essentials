@@ -40,6 +40,19 @@ Found vulnerabilities in detail <br/>
 <br />
 
 
+<p align="center">
+Scan with an installed outdated Firefox version <br/>
+<img src="https://i.imgur.com/j9CR85M.jpeg"/>
+<br />
+<br />
+
+
+
+<p align="center">
+Found vulnerabilities in detail <br/>
+<img src="https://i.imgur.com/l5sT2tN.jpeg"/>
+<br />
+<br />
 
 
 
