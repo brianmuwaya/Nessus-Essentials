@@ -1,4 +1,4 @@
-<h1>Nessus Home Lab</h1>
+<h1>Nessus Essentials</h1>
 
 
 <h2>Project description</h2>
